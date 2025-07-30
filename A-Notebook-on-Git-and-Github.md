@@ -2,7 +2,6 @@
 
 This is a handy notebook or reference book on one of the most popular SCM (Source Code Management / Software Configuration Management) tool - Git and Github. Staring off with the very basics, it covers almost all the frequently used git commands along with their description.
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -18,7 +17,6 @@ This is a handy notebook or reference book on one of the most popular SCM (Sourc
 - [Miscellaneous](#miscellaneous)
 - [Creators](#creators)
 
-
 ## Introduction
 
 Git is a version control system for tracking changes in computer files / directories and coordinating work on those files among multiple people. It was created by Linus Torvalds.
@@ -28,7 +26,6 @@ Git is free and open source distributed version control system designed to handl
 Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 
 GitHub is a code hosting platform which allows you to upload your repositories online for collaboration and version control. GitHub lets you (and others) work together on projects thus making collaboration easier. GitHub provides backup of your local repositories in cloud and it also provides visual interface to your repositories.
-
 
 ## Configuration
 
@@ -115,11 +112,9 @@ git clone "url"
 
 Clone (download) a repository that already exists on GitHub, Bitbucket, GitLab etc., including all the files, branches, and commits.
 
-
 ## Working with Repository
 
 ![Git Workflow](git-workflow.png)
-
 
 ## Branches
 
